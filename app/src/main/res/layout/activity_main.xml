@@ -9,7 +9,7 @@
 
  <EditText
      android:id="@+id/et_key"
-     android:hint="key_word"
+     android:hint="key word"
      android:layout_width="match_parent"
      android:layout_height="wrap_content"
      android:textAlignment="center"
@@ -27,7 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="change"/>
+        android:text="next page"/>
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"
